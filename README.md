@@ -17,4 +17,5 @@ The plan was very simple. The steps I took are below.
 Functionality of each process was performed throughout the process. This includes using command prompt and ipconfig /all to verify that the client received the correct IP from the scope, pinging an Internet resource from the client which verifies DNS, logging into to many user accounts that were in the OU.
 
 The link found here shows the finished project. I cover all of the details of the project. There is no audio, however everything is clearly demonstrated.
+
 https://youtu.be/n81yY1qU99U?si=zJPEWJgM7mO4Wlip
