@@ -2,6 +2,7 @@
 Microsoft Active Directory, Powershell Script automatically creates 1000 user accounts, Domain Controller, DHCP Server, DNS Server, Client PC, Virtual Box, Virtualization
 
 INTRODUCTION
+
 This lab was a fun experience and allowed me to solidify some of the concepts of Microsoft Active Directory and what it really is. I already have experience deploying operating systems using virtualization. (VMWare and VirtualBox).
 
 ![Overview](https://github.com/OmrSanchez/Project--Microsoft-Active-Directory-/assets/54558041/94708324-2e06-44bb-95e6-5a01a19d865c)
